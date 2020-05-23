@@ -1,0 +1,50 @@
+[
+  {
+    "id" : 1,
+    "name" : "Cu Nguyen Anh",
+    "phone" : "0679792603",
+    "role" : 1
+  },
+  {
+    "id" : 2,
+    "name" : "Yves Kouassi",
+    "phone" : "0679789653",
+    "role" : 2
+  },
+  {
+    "id" : 3,
+    "name" : "Edgar Lebreton",
+    "phone" : "0678456711",
+    "role" : 3
+  },
+  {
+    "id" :4,
+    "name" : "Mami Sané",
+    "phone" : "0604561265",
+    "role" : 4
+  },
+  {
+    "id" : 5,
+    "name" : "William Zounon",
+    "phone" : "0671652891",
+    "role" : 4
+  },
+  {
+    "id" : 6,
+    "name" : "Bastien Arnaud",
+    "phone" : "0679792603",
+    "role" : 2
+  },
+  {
+    "id" : 7,
+    "name" : "An An",
+    "phone" : "0671882379",
+    "role" : 3
+  },
+  {
+    "id" : 8,
+    "name" : "Cu Xuan Dong",
+    "phone" : "0690912384",
+    "role" : 4
+  }
+]
